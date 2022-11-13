@@ -7,6 +7,7 @@ author: Jonas Bergler
 title: Jonas Bergler
 disqusshortname: jbergler
 pluralizelisttitles: false
+googleAnalytics: G-M0M97EWLML
 
 permalinks:
   pages: ':slug/'
