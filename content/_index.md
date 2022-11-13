@@ -13,7 +13,7 @@ I'm learning to fly planes and I enjoy building/making things.
 
 I inhabit the internet as `jbergler`. Some of the places you'll find me include
 [Github](https://github.com/jbergler),
-[Twitter](https://twitter.com/jbergler), [Mastodon](https://mastodon.nz/@jbergler),
+[Twitter](https://twitter.com/jbergler), <a href="https://mastodon.nz/@jbergler" rel="me">Mastodon</a>,
 [LinkedIn](https://linkedin.com/in/jbergler/),
 and [Strava](https://www.strava.com/athletes/9120319).
 
