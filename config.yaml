@@ -13,7 +13,7 @@ permalinks:
 
 params:
   logo: /assets/favicon.ico
-  description: A minimal hugo theme focus on content
+  description: ""
   comments:
     githubRepo: jbergler/blog
     theme: github-light
