@@ -7,8 +7,8 @@ I'm a software engineer based in [Wellington, New Zealand](https://www.google.co
 
 I'm really passionate about making things simple.
 
-Currently I'm working on [semgrep](https://semgrep.dev).
-I've also had the pleasure of working at other great companies such as [Meraki](https://meraki.com) and [Snap](https://snap.net.nz).
+Currently I'm working on [MongoDB](https://mongodb.com).
+I've also had the pleasure of working at other great companies such as [semgrep](https://semgrep.dev), [Meraki](https://meraki.com) and [Snap](https://snap.net.nz).
 
 Outside of work, I try to ride my bicyles as regularly as possible.
 I'm learning to fly planes and I enjoy building/making things.
